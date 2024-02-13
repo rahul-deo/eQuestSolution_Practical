@@ -25,5 +25,4 @@
 1. Clone the repository:
 
    ```bash
-    0), pack-reused 0
 To https://github.com/rahul-deo/eQuestSolution_Practical.git
